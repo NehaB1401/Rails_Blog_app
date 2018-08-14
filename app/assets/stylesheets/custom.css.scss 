@@ -1,3 +1,5 @@
+$about-default-bg: #FFF8DC;
+
 @import "bootstrap-sprockets";
 
 @import "bootstrap";
